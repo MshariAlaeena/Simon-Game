@@ -1,4 +1,3 @@
-# Simon-Game
 # Simon Game Project
 
 This project is a web-based version of the classic Simon game. It challenges players to remember and repeat sequences of colors and sounds. Built with HTML, CSS, and JavaScript, this game provides a simple yet engaging way to test your memory skills.
