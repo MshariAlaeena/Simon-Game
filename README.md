@@ -10,6 +10,9 @@ This project is a web-based version of the classic Simon game. It challenges pla
 4. For every correct sequence, the level increases and an additional color is added to the sequence.
 5. If you press the wrong color, the game is over and you can start again by pressing any key.
 
+## Demo
+https://msharialaeena.github.io/Simon-Game/
+
 ## Features
 
 - **Dynamic Difficulty**: The game's difficulty increases with each level by adding more steps to the sequence.
